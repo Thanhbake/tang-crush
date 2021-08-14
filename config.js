@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'Bake biết mà 🥰. Yêu bạn nhiều lắm nun 😘😘',
     messDesc: 'Phải ghé quán Bake của chúng mình đó nhoa',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.instagram.com/thanhbake/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/Bake-151625823682991/?ref=pages_you_manage' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
