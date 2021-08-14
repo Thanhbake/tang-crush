@@ -8,7 +8,7 @@ const CONFIG = {
     desc: 'Bạn sẽ ghé Bake để Chill và tận hưởng ly cocktail chứ? ',
     btnYes: 'Tất nhiên rùi nè <33',
     btnNo: 'Không ghé đâu, à hi hi :3',
-    question:'Trên thế giới hơn 100 cái rooftop mà Bạn vẫn chọn Bake <3',
+    question:'Trên thế giới hơn 100 cái rooftop mà Bạn vẫn chọn Bake <3 🥰',
     btnReply: 'Gửi cho chúng mình biết nha <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Bake biết mà 🥰. Yêu bạn nhiều lắm nun 😘😘',
